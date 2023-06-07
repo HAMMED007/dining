@@ -11,7 +11,7 @@ Gonzaga Rugambwa
 
 
 # Main Milestones
-- Initial Setup and Project Skeleton: Set up the basic project structure, including front-end and back-end folders, and initialize the necessary dependencies for React, Node.js, Spring Boot, and MongoDB.
+- Initial Setup and Project Skeleton: Set up the basic project structure, including front-end and back-end folders, and initialize the necessary dependencies for React, Node.js, and MongoDB.
 
 - User Authentication and Authorization: Implement user authentication and authorization functionality. Users should be able to register, log in, and manage their profiles. Event organizers should have additional privileges.
 
@@ -28,7 +28,6 @@ Front-end: React.
 
 Back-end: Node.js
 
-Framework: Spring Boot
 
 Database: MongoDB
 
